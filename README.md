@@ -1,17 +1,22 @@
-### Hi there 👋
-
-<!--
-**yelimota/yelimota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Youtuber/Streamer
 25🔹Dominicana🔹 🍕🔹📚🔹🎤🔹
 
-💌Yelitzabusiness@gmail.com
-💜Twitch: yelimota
-💗Youtube: Yelitza Mota
-💙FB: Yelitza Mota
-🐦Twitter: YeliMotaRD
-www.youtube.com/user/yeliJB
+### Hi there 👋
+
+---
+
+💌 UnAfroSagrado@gmail.com
+
+💜 [Twitch: yelimota](www.twitch.tv/yelimota)
+
+💗 [Youtube: Yelitza Mota](www.youtube.com/user/yeliJB)
+
+💙 [B: Yelitza Mota](www.facebook.com/yelitza.motalantigua)
+
+🐦 [witter: YeliMotaRD](www.twitter.com/YeliMotaRD)
+
+<!--
+**yelimota/yelimota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
