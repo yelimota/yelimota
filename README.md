@@ -5,15 +5,15 @@
 
 ---
 
-💌 UnAfroSagrado@gmail.com
+💌Email: UnAfroSagrado@gmail.com
 
-💜 [Twitch: yelimota](www.twitch.tv/yelimota)
+💜Twitch: [yelimota](www.twitch.tv/yelimota)
 
-💗 [Youtube: Yelitza Mota](www.youtube.com/user/yeliJB)
+💗Youtube: [Yelitza Mota](www.youtube.com/user/yeliJB)
 
-💙 [B: Yelitza Mota](www.facebook.com/yelitza.motalantigua)
+💙Facebook [Yelitza Mota](www.facebook.com/yelitza.motalantigua)
 
-🐦 [witter: YeliMotaRD](www.twitter.com/YeliMotaRD)
+🐦Twitter: [YeliMotaRD](www.twitter.com/YeliMotaRD)
 
 <!--
 **yelimota/yelimota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
