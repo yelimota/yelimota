@@ -3,6 +3,16 @@
 <!--
 **yelimota/yelimota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## Youtuber/Streamer
+25🔹Dominicana🔹 🍕🔹📚🔹🎤🔹
+
+💌Yelitzabusiness@gmail.com
+💜Twitch: yelimota
+💗Youtube: Yelitza Mota
+💙FB: Yelitza Mota
+🐦Twitter: YeliMotaRD
+www.youtube.com/user/yeliJB
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
